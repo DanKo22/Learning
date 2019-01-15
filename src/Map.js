@@ -16,7 +16,7 @@ class Map extends Component {
      
     }
     else {
-      // Chọn điểm đầu tiên làm center
+      // haha ahah aha ah ah ah 
       const firstPos = posList[0];
       
       
